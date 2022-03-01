@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh, the ninth day of January, one thousand six hundred and sixty two. The Lords of His Majesties Privy Council having considered His Majesties letter ... bearing, that whereas by the advice and consent of the Parliament, his Majesty did allow the administration of the church government of this kingdom by sessions, presbyteries, and synods ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05395</idno>
+            <idno type="STC">Wing S1521B</idno>
+            <idno type="STC">ESTC R225069</idno>
+            <idno type="EEBO-CITATION">52612270</idno>
+            <idno type="OCLC">ocm 52612270</idno>
+            <idno type="VID">179577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179577)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh, the ninth day of January, one thousand six hundred and sixty two. The Lords of His Majesties Privy Council having considered His Majesties letter ... bearing, that whereas by the advice and consent of the Parliament, his Majesty did allow the administration of the church government of this kingdom by sessions, presbyteries, and synods ...</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Text in black letter.</note>
+                  <note>Signed: Pet. Wedderburne, Cl. Sti. Concilii.</note>
+                  <note>Further instructions on the restoration of episcopacy.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179577:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>AT EDINBURGH, <date>The ninth day of <hi>January,</hi> one thouſand ſix hundred and ſixty two.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords of His <hi>Majeſties</hi> Privy Council having conſidered His <hi>Majeſties</hi> Letter, of the date at <hi>Whitehall</hi> the twenty eight of <hi>December</hi> laſt, one thouſand ſix hundred and ſixty one; bearing, that whereas by the advice and conſent of the Parliament, His <hi>Majeſty</hi> did allow the adminiſtration of the Church Government of this Kingdom by Seſsions, Presbyteries and Synods, notwithſtanding of the Act Reſciſſory, untill His <hi>Majeſty</hi> ſhould take care for the better ſetling of the Government thereof. And that having, by a late Proclamation, of the date the ſixth of <hi>September,</hi> one thouſand ſix hundred and ſixty one, declared His Royal pleaſure for reſtoring the ancient and legal Government of the Church, by Archbiſhops and Biſhops, as it was exerciſed in the year, one thouſand ſix hundred and thirty ſeven; and that in purſuance of that reſolution, His <hi>Majeſty</hi> hath nominated and preſented perſons to the ſeveral Biſhopricks of this Kingdom: of whom ſome have been lately conſecrated and inveſted with the ſame Dignities, Church-power and Authority, which was formerly competent to the Archbiſhops and Biſhops of this Church, in the reignes of His Royal Grand-father and Father of bleſſed memory; and that the allowance of the adminiſtration of this Church, in the way it hath been, ſince the violent interruption of Epiſcopal Government, being inconſiſtent with the ſame now eſtabliſhed, is now of it ſelf void and expired, as being only for a time till His <hi>Majeſty</hi> ſhould ſettle and ſecure Church <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>ment in a frame moſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Monarchy, and complying with the peace of the Kingdom; and ſo the ſaid allowance ſhould be of no further <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and continuance, but the jurisdiction and exerciſe of Church Government ſhould be ordered in the reſpective Synods, Presbyteries and Seſsions of this Church, by the Appointment and Authority of the Archbiſhops and Biſhops thereof, according to the ſtanding Laws and their known Priviledge and Practiſe conform there<g ref="char:EOLhyphen"/>to. And that ſpecial care be taken that all due reverence and reſpect be given by all the Subjects to the Archbiſhops and Biſhops of the Church, and that they have all countenance, aſſiſtance and incouragement from the Nobility, Gentry and others, in the diſcharge of their Office and Service to His <hi>Majeſty</hi> in the Church. And that ſtrict notice be taken of all and every one who ſhall preſume to reflect or expreſs any diſ-reſpect to their Perſons, Function or Au<g ref="char:EOLhyphen"/>thority, with which they are inveſted: which His <hi>Majeſty</hi> requires to be intimate to the whole Lieges by Proclamation, diſcharging all Eccleſiaſtical Meetings in Synods, Presbyteries or Seſsions, untill they be authorized and ordered by the Archbiſhops and Biſhops upon their entry unto the Government of their reſpective Seas, which is to be done ſpeedily. Therefore in obedience of, and conform to, His <hi>Majeſties</hi> Royal pleaſure and command, have Ordained, and by theſe preſents Ordain the Lyon King at Armes and his brethren Heraulds, Purſevants, and Meſſengers at Armes, to paſs to the Mercat Croſſe of <hi>Edinburgh,</hi> and there by open Proclamation to make publication of His <hi>Majeſties</hi> Royal pleaſure foreſaid, diſcharging all Eccleſiaſtical Meetings in Synods, Presbyteries and Seſſions, untill they be authorized and ordered by the Archbiſhops and Biſhops, upon their entering unto the Government of their reſpective Seas, as ſaid is; and to require all His <hi>Majeſties</hi> Subjects of whatſoever rank, quality or degree they be, to give all due reverence and reſpect unto the Archbiſhops and Biſhops; and that all the Nobility, Gentry and Borroughs, Sheriffs of Shires, Stewarts of Stewartries, Baylies of Regalities, Magiſtrates of Burghs, Iuſtices of Peace, and other publick Miniſters within their reſpective bounds and jurisdictions, at all times, give all countenance, aſſiſtance and encouragement to them, in the diſcharge of their Office and Service to His <hi>Majeſty</hi> in the Church; with certification, that if any ſhall preſume to reflect or expreſs any diſ-reſpect to their Perſons, Function or Authority, with which they are inveſted, they ſhall be ſeverely and exemplarly puniſhed, according to the nature and quality of their offence. And Ordains theſe preſents to be printed, and publiſhed at the Mercat Croſs of <hi>Edinburgh,</hi> as ſaid is, and other places needfull, that none may pretend ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>Pet. Wedderburne,</hi> Cl. S<hi rend="sup">ti.</hi> Concilii.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty, 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
